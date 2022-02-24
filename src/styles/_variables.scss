@@ -1,0 +1,36 @@
+@import url("https://fonts.googleapis.com/css2?family=Outfit:wght@400;700&family=Poppins:wght@400;600&family=Red+Hat+Display:wght@500;700;900&display=swap");
+
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans&family=Outfit:wght@400;700&family=Poppins:wght@400;600&family=Red+Hat+Display:wght@500;700;900&display=swap");
+
+//-------------------------------------------------------------
+//line height
+
+$line-height-xs: 18px;
+$line-height-sm: 20px;
+$line-height-md: 24px;
+$line-height-lg: 32px;
+$line-height-xl: 54px;
+
+//-------------------------------------------------------------
+//sizes
+
+$font-weight-light: 300;
+$font-weight-medium: 500;
+$font-weight-bold: 700;
+
+//-------------------------------------------------------------
+//colors
+
+//main color
+
+$violet: hsl(257, 40%, 49%);
+$soft-magenta: hsl(300, 69%, 71%);
+
+//colors
+
+$white: #fff !default;
+
+//social media
+$color-facebook: #3b5998;
+$color-twitter: #00aced;
+$color-instagram: #517fa4;

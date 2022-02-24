@@ -1,0 +1,17 @@
+@import "./styles/variables";
+
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
+.container {
+  font-family: "Open Sans", sans-serif;
+  font-weight: $font-weight-medium;
+  background: url("./assets/svg/bg-desktop.svg") no-repeat center/cover;
+  background-color: $violet;
+  min-height: 100vh;
+  color: $white;
+  max-width: none;
+}
